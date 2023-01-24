@@ -52,3 +52,37 @@
 Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
 
 [<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+
+
+---
+
+<p align="center">Web site for JF Sabinov
+    <br> 
+</p>
+
+## 📝 Table of Contents
+
+- [Web architecture](#web_architecture)
+- [Getting started with developing](#dev)
+
+## 🧐 Web architecture <a name = "web_architecture"></a>
+
+It is useful to design and follow a specific format when writing a problem statement. While there are several options
+
+## 🚀 Getting started with developing <a name = "dev"></a>
+
+This section is used to describe how to start developing.
+
+Node.js, firebase commands installed on the machine
+
+### Start local Firebase Emulator and import data
+
+firebase emulators:start --import ./emulators --export-on-exit ./emulators
+ 
+### Open Live Server with Visual Code
+
+## ✍️ Authors <a name = "authors"></a>
+
+- [@JakubPiga](https://github.com/314ga/)
+- [@MariaFailli](https://github.com/maria4lexzy)
+
